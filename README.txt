@@ -17,7 +17,7 @@ No  Nama                  Peran                     Kontribusi
 5   Nabil Zidane      Quality & Presenter       Uji link/path/responsive, demo, penjelasan keputusan desain
 
 
-2. ISI PAKET
+2. Struktur Folder
 -----------------------------------------------------
 Kelompok4_Angkringan Mbok Sari/
 |-- project-kelompok/                 Folder website
