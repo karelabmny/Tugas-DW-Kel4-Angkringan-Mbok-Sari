@@ -55,13 +55,13 @@ CSS3 : file eksternal, box model, Flexbox, embedded font (@font-face), variabel 
 5. SUMBER GAMBAR DAN FONT
 -----------------------------------------------------
 Gambar (assets/images/):
-- angkringan.jpg      : [isi sumber / pembuat gambar]
-- nasi-liwet.jpg      : [isi sumber]
-- nasi-kucing.jpg     : [isi sumber]
-- sate.jpg            : [isi sumber]
-- wedang-jahe.jpg     : [isi sumber]
-- gorengan.jpg.jpeg   : [isi sumber]
-- kopi.jpg.jpeg       : [isi sumber]
+- angkringan.jpg      : Pinterest
+- nasi-liwet.jpg      : Pinterest
+- nasi-kucing.jpg     : Pinterest
+- sate.jpg            : Pinterest
+- wedang-jahe.jpg     : Pinterest
+- gorengan.jpg.jpeg   : Pinterest
+- kopi.jpg.jpeg       : Pinterest
 
 Font (assets/fonts/custom.woff2):
 - Poppins Bold, lisensi SIL Open Font License 1.1, diambil dari paket npm @fontsource/poppins.
